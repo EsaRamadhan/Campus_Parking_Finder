@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "288678019953",
+    "firebase_url": "https://campus-parking-finder-default-rtdb.firebaseio.com",
+    "project_id": "campus-parking-finder",
+    "storage_bucket": "campus-parking-finder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288678019953:android:fae754d451d5dc6fdd6cd0",
+        "android_client_info": {
+          "package_name": "com.example.campus_parking_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOrfavoLfvJT7WQLfo-4K3jxYnVVUkGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
